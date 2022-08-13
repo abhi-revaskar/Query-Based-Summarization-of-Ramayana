@@ -7,22 +7,22 @@
      http://127.0.0.1:5000/
 
 4. Below are the dependencies of the project which you have to import.  
-   pickle  
-   os  
-   sentence-transformers  
-   transformers  
-   gensim  
-   PorterStemmer  
-   sklearn  
-   PegasusForConditionalGeneration  
-   PegasusTokenizer  
-   pytorch  
-   torch  
-   nltk  
-   flask  
-   pandas  
-   numpy  
-   networkx  
+   -pickle  
+   -os  
+   -sentence-transformers  
+   -transformers  
+   -gensim  
+   -PorterStemmer  
+   -sklearn  
+   -PegasusForConditionalGeneration  
+   -PegasusTokenizer  
+   -pytorch  
+   -torch  
+   -nltk  
+   -flask  
+   -pandas  
+   -numpy  
+   -networkx  
 5. Dataset is present in the folder New_Ramayana_Dataset and the book from it is extracted is on the following link.  
     https://lifeintegrity.com/Ramayana.pdf  
 6. Code is in the folder Code.  
